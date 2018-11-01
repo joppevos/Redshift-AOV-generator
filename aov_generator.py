@@ -4,7 +4,7 @@ import maya.mel as mel
 """ generate custom aovs for redshift """
 
 aovs = ['Cryptomatte', 'Depth', 'Depth', 'Diffuse Lighting', 'Global Illumination', 'Motion Vectors',
-        'Reflections', 'Specular Lighting']  # AOV to generate
+        'Reflections', 'Specular Lighting']  # AOV's to generate
 
 customnames = ['CP', 'Z_AA', 'Z_A', 'DIR', 'GI', 'MV', 'RFL', 'SPEC']
 
