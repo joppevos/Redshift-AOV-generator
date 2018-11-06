@@ -50,7 +50,8 @@ def aov_generator():
         mc.confirmDialog(title='Generated', message='Redshift custom AOV\'s are generated')
 
     # call function
+    mel.eval("redshiftUpdateActiveAovList()")  # refresh the redshift UI
     return set_attributes(name_change(aovs), customnames)
 
-
+aov_generator()
 
