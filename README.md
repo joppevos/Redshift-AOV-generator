@@ -1,5 +1,6 @@
 ## What?
 A custom Multipass AOV generator for redshift Maya
+![c61d0b19a79a86c972cef6faa75d4a0b](https://user-images.githubusercontent.com/44348300/49168419-baf26a00-f337-11e8-83ab-559dd69f7fea.png)
 
 ## Why?
 To create a generalized AOV-format for every artists in the studio, this way there are no problems with different settings later on in the pipeline.
