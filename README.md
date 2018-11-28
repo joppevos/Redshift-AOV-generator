@@ -14,7 +14,7 @@ click 'Add to shelf' to keep it when restarting
 Add your own custom AOV by adding it to the list `aovs`.
 
 ```
-aovs = ['Cryptomatte', 'Depth', 'Depth', 'Diffuse Lighting', 'Global Illumination', 'Motion Vectors',
+aovs = ['Cryptomatte', 'Depth', 'Diffuse Lighting', 'Global Illumination', 'Motion Vectors',
         'Reflections', 'Specular Lighting', 'INSERT HERE']  
 ```
 
