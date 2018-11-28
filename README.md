@@ -1,5 +1,5 @@
 ## What?
-A custom AOV generator for redshift Maya
+A custom Multipass AOV generator for redshift Maya
 
 ## Why?
 To create a generalized AOV-format for every artists in the studio, this way there are no problems with different settings later on in the pipeline.
